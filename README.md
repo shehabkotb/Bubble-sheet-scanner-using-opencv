@@ -1,4 +1,4 @@
-# Optical character scanner (OMR) for bubble sheet
+## Optical character scanner (OMR) for bubble sheet
 The project can extract answers from upright or slightly tilted images using various hough transforms from opencv
 ### Template
 ![](doc.png)
